@@ -1,2 +1,2 @@
 # evt
-New home page for the EVT project.
+Test home page for the EVT project.
